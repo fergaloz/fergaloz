@@ -34,7 +34,7 @@ Me apasiona la tecnología, el aprendizaje continuo y la resolución de problema
 ---
 
 ### 🚀 Proyectos Destacados
-- [🔍 Proyecto de Pruebas Automatizadas](https://github.com/fergaloz/proyecto1)  
+- [🔍 Proyecto de Pruebas Automatizadas](https://github.com/fergaloz/qa-project-Urban-Routes-es)  
 
 
 ---
